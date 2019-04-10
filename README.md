@@ -1,2 +1,2 @@
 # fact
-https://travis-ci.org/junaidsyed786/fact.svg?branch=master
+![travis]https://travis-ci.org/junaidsyed786/fact.svg?branch=master
